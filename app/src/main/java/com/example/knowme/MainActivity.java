@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     Button yes;
     Button no;
     TextView textView2;
-    private String questions[] = {"Is owner Ravi?", "Is owner a student of IIT Kanpur?", "Is owner a bad person?", "Is Owner going to be selected in your company?",
+    private String questions[] = {"Do you have kids?", "Do you know Java?", "How much money do you have?", "Is Owner going to be selected in your company?",
             "Do you like to recommend such apps to someone starting android dev?"};
 
     private boolean answers[] = {true,false,false,true,true};
